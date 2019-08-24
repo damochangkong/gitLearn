@@ -7,3 +7,4 @@ Git鼓励大量使用分支：
 删除分支：git branch -d <name>
 HEAD说明：master是指向提交的，HEAD其实是指向master的，HEAD其实是指向当前分支的。
 顾名思义即表示当前的分支是啥
+我们把dev分支的工作成果合并到master分支上：git merge dev
