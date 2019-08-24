@@ -1,1 +1,2 @@
 git checkout -b dev 即创建并切换当前分支
+一定要待当前分支的修改内容进行了add和commit之前才能checkout到其他分支
