@@ -1,0 +1,9 @@
+/c/Users/Administrator
+echo hello > a.txt.则a.txt中会记录下hello，
+但是如果再次执行echo hello > a.txt。则会覆盖之前的hello
+echo world >> a.txt  则a.txt中会记录的是hello word,
+但是hello和word不是写在一行的，而是每个单词占用一行的。
+再比如 echo $HOME 控制台则会打印出当前用户的根路径/home/picc4
+
+git checkout -- git3.txt 用远程的文档来覆盖本地文档
+test over!
