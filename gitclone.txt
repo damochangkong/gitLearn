@@ -1,0 +1,23 @@
+
+git config --global user.name "zhudahong"
+git config --global user.email "776301500@qq.com"
+
+git branch --set-upstream-to=origin/dev dev
+
+git remote add origin https://github.com/damochangkong/gitLearn.git
+
+
+git clone git@github.com:damochangkong/gitLearn.git
+
+https://github.com/damochangkong/gitLearn.git
+https://github.com/damochangkong/gitLearn.git
+
+git@github.com:damochangkong/gitLearn.git
+file:///C:/Program%20Files/Git/ReleaseNotes.html
+
+
+----------客户端B
+向远程master提交gitClientB_master
+relase分支提交gitClientB_release
+
+---客户端A拉去release分支的代码 git pull origin release
