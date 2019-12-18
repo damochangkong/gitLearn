@@ -1,2 +1,0 @@
-welcome init
-cached test
